@@ -11,9 +11,9 @@
 	<key>OriginalAuthor</key>
 	<string>mathuaerknedam</string>
 	<key>CFBundleIdentifier</key>
-	<string>im.adium.yMous.style</string>
+	<string>im.adium.yMous2.style</string>
 	<key>CFBundleName</key>
-	<string>yMous</string>
+	<string>yMous2</string>
 	<key>MessageViewVersion</key>
 	<integer>4</integer>
 	<key>AllowTextColors</key>
